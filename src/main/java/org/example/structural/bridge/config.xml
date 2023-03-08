@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+    <className>org.example.structural.bridge.image.imp.BMPImage</className>
+    <className>org.example.structural.bridge.imgPainter.imp.WindowsImp</className>
+</config>
